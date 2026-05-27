@@ -1,0 +1,20 @@
+# Compiled binary
+servicepulse
+
+# Environment variables — never commit secrets
+.env
+
+# Go build cache
+vendor/
+
+# macOS
+.DS_Store
+
+# Editor
+.idea/
+.vscode/
+*.swp
+.env
+.DS_Store
+tmp/
+bin/
